@@ -1,4 +1,4 @@
-### Hola 👋 Soy Santiago Bocel, estudiante de Ingenieria Informatica y Sistemas 👨‍💻
+### Hola 👋 Soy Santiago Bocel, estudiante de Ingeniería Informática y Sistemas 👨‍💻
 #
 <div>
    <a herf="https://github.com/SantiagoBocel">
